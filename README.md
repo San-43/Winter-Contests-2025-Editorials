@@ -24,10 +24,13 @@ Las contribuciones son bienvenidas. Si deseas proponer mejoras, correcciones o a
 ## Agradecimientos
 Agradecemos a quienes han contribuido con soluciones y mantenimiento del repositorio:
 
-- Sandro Martínez Pérez — [Perfil](mailto:virgosmp.mx@gmail.com)
-- Ashley Torres —
-- Carlos Alberto Lara Hernández —
-- Cesar Martínez Andrade —
+- Sandro Martínez Pérez — [Perfil](https://github.com/San-43)
+- Ashley Torres — [Perfil](https://github.com/AshleyTRS)
+- Carlos Alberto Lara Hernández — [Perfil](https://github.com/KaarLarax)
+- Cesar Martínez Andrade — [Perfil](https://github.com/ma472168)
 
 ## Licencia
 Este repositorio se distribuye con fines educativos. Si deseas reutilizar el material, por favor conserva la atribución correspondiente.
+
+## Notes
+- Siéntanse libres de contribuir a través de pull request.
