@@ -16,9 +16,9 @@ void solve() {
         ++tmp3;
     }
     if (n == 1 && tmp2 <= tmp3) {
-        cout << 2 * tmp3 - tmp2 << endl;
+        cout << 2 * tmp3 - tmp2 << '\n';
     } else {
-        cout << -1 << endl;
+        cout << -1 << '\n';
     }
 }
 

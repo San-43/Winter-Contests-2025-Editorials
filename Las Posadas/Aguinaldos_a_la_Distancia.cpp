@@ -6,7 +6,7 @@ void solve() {
     int n;
     cin >> n;
 
-    cout << (n / 10) + (n % 10) << edl;
+    cout << (n / 10) + (n % 10) << '\n';
 }
 
 int main() {
