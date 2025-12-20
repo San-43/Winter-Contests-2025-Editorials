@@ -22,7 +22,7 @@ Los concursos se alojan en el servidor oficial de la comunidad. Puedes consultar
 Las contribuciones son bienvenidas. Si deseas proponer mejoras, correcciones o agregar nuevos editoriales, abre un _pull request_ con una descripción detallada de los cambios.
 
 ## Agradecimientos
-Agradecemos a quienes han contribuido con soluciones y mantenimiento del repositorio:
+Agradecemos a quienes han hecho posible esta serie de concursos:
 
 - Sandro Martínez Pérez — [Perfil](https://github.com/San-43)
 - Ashley Torres — [Perfil](https://github.com/AshleyTRS)
