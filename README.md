@@ -14,7 +14,7 @@ g++ -std=c++17 -O2 -Wall -Wextra -pedantic archivo.cpp -o solucion
 ```
 
 ## Plataforma de concursos
-Los concursos se alojan en el servidor oficial de la comunidad. Puedes consultarlos y practicar en la sección de **concursos pasados** en el siguiente enlace:
+Los concursos se alojan en el servidor oficial del club de programación competitiva. Puedes consultarlos y practicar en la sección de **concursos pasados** en el siguiente enlace:
 
 - https://cpcuaeh-judge.dynns.com/contests/
 
@@ -31,6 +31,3 @@ Agradecemos a quienes han hecho posible esta serie de concursos:
 
 ## Licencia
 Este repositorio se distribuye con fines educativos. Si deseas reutilizar el material, por favor conserva la atribución correspondiente.
-
-## Notes
-- Siéntanse libres de contribuir a través de pull request.
